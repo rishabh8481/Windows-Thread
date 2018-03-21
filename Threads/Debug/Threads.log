@@ -1,0 +1,17 @@
+﻿  stdafx.cpp
+  Threads.cpp
+e:\meet_code\os-assignment2\threads\threads.cpp(96): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\meet_code\os-assignment2\threads\threads.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\meet_code\os-assignment2\threads\threads.cpp(255): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(265): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(299): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(309): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(344): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(354): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(387): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(397): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(430): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(440): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(473): warning C4018: '<': signed/unsigned mismatch
+e:\meet_code\os-assignment2\threads\threads.cpp(483): warning C4018: '<': signed/unsigned mismatch
+  Threads.vcxproj -> E:\meet_code\OS-Assignment2\Debug\Threads.exe

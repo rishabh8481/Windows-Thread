@@ -1,0 +1,934 @@
+
+
+
+
+TA C1 + TB C2
+Changing Process priority to : - 64
+File priority: -15
+CPU priority: -4294967294
+sorting begins...
+file operation begins...
+file operations ends...12366560
+sorting ends...17832176
+File priority: -2
+CPU priority: -0
+sorting begins...file operation begins...
+
+file operations ends...12893848
+sorting ends...16474737
+File priority: -0
+CPU priority: -2
+sorting begins...file operation begins...
+
+file operations ends...14087231
+sorting ends...17175456
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+file operations ends...14444289
+sorting ends...16217576
+Changing Process priority to : - 16384
+File priority: -15
+CPU priority: -4294967294
+sorting begins...
+file operation begins...
+file operations ends...12240641
+sorting ends...17944233
+File priority: -2
+CPU priority: -0
+sorting begins...file operation begins...
+
+file operations ends...13229917
+sorting ends...17415420
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+file operations ends...13237651
+sorting ends...15635718
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+file operations ends...13632499
+sorting ends...15427604
+Changing Process priority to : - 32
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...12329934
+sorting ends...16119293
+File priority: -2
+CPU priority: -0
+sorting begins...file operation begins...
+
+file operations ends...12300499
+sorting ends...15919138
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+file operations ends...13026771
+sorting ends...14934634
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+file operations ends...13282033
+sorting ends...14953461
+Changing Process priority to : - 32768
+File priority: -15
+CPU priority: -4294967294
+sorting begins...
+file operation begins...
+file operations ends...11953250
+sorting ends...15585159
+File priority: -2
+CPU priority: -0
+sorting begins...file operation begins...
+
+file operations ends...12016058
+sorting ends...14919279
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+file operations ends...12067996
+sorting ends...14841454
+File priority: -4294967294
+CPU priority: -15
+file operation begins...sorting begins...
+
+file operations ends...12714946
+sorting ends...14922530
+Changing Process priority to : - 128
+File priority: -15
+CPU priority: -4294967294
+sorting begins...file operation begins...
+
+file operations ends...11976437
+sorting ends...14867610
+File priority: -2
+CPU priority: -0
+sorting begins...
+file operation begins...
+file operations ends...11975349
+sorting ends...14874997
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+file operations ends...12095056
+sorting ends...14811321
+File priority: -4294967294
+CPU priority: -15
+sorting begins...file operation begins...
+
+file operations ends...12069323
+sorting ends...14784676
+Changing Process priority to : - 256
+File priority: -15
+CPU priority: -4294967294
+file operation begins...sorting begins...
+
+file operations ends...12021295
+sorting ends...14900970
+File priority: -2
+CPU priority: -0
+sorting begins...
+file operation begins...
+file operations ends...12037187
+sorting ends...14930606
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+file operations ends...12119930
+sorting ends...14879596
+File priority: -4294967294
+CPU priority: -15
+file operation begins...sorting begins...
+
+file operations ends...12059200
+sorting ends...14775202
+
+
+
+
+TA C1 + TB C1
+Changing Process priority to : - 64
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8423093
+sorting ends...22689527
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8505575
+sorting ends...22499887
+File priority: -0
+CPU priority: -2
+sorting begins...
+sorting ends...14441732
+file operation begins...
+file operations ends...8384615
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13947635
+file operations ends...15756894
+Changing Process priority to : - 16384
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8517141
+sorting ends...22877271
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8769840
+sorting ends...22888108
+File priority: -0
+CPU priority: -2
+sorting begins...
+sorting ends...13990895
+file operation begins...
+file operations ends...8430905
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13924170
+file operations ends...16075789
+Changing Process priority to : - 32
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8261682
+sorting ends...22531462
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8298593
+sorting ends...22248106
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+sorting ends...13886748
+file operations ends...16631136
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13899689
+file operations ends...16442095
+Changing Process priority to : - 32768
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8619396
+sorting ends...22655727
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8309682
+sorting ends...21960671
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+sorting ends...13948415
+file operations ends...13174075
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13800994
+file operations ends...15515441
+Changing Process priority to : - 128
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8281893
+sorting ends...21890287
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8769729
+sorting ends...22540776
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+sorting ends...13800699
+file operations ends...15672258
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13801132
+file operations ends...15637425
+Changing Process priority to : - 256
+File priority: -15
+CPU priority: -4294967294
+file operation begins...
+sorting begins...
+file operations ends...8748352
+sorting ends...22352673
+File priority: -2
+CPU priority: -0
+file operation begins...
+sorting begins...
+file operations ends...8260235
+sorting ends...22036851
+File priority: -0
+CPU priority: -2
+sorting begins...
+file operation begins...
+sorting ends...14004917
+file operations ends...15780281
+File priority: -4294967294
+CPU priority: -15
+sorting begins...
+file operation begins...
+sorting ends...13892625
+file operations ends...15231854
+
+
+
+
+TA C1 + TA C2
+Changing Process priority to : - 64
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins...sorting begins1...
+
+sorting ends1...18657436
+sorting ends...20206523
+CPU priority1: -2
+CPU priority0: -0
+sorting begins...sorting begins1...
+
+sorting ends1...19316365
+sorting ends...20178220
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...19773330
+sorting ends1...20138722
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...18629491
+sorting ends1...20187002
+Changing Process priority to : - 16384
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins...sorting begins1...
+
+sorting ends1...18524304
+sorting ends...19780929
+CPU priority1: -2
+CPU priority0: -0
+sorting begins...sorting begins1...
+
+sorting ends1...19257006
+sorting ends...20047675
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...sorting begins1...
+
+sorting ends...19423297
+sorting ends1...19970238
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins1...sorting begins...
+
+sorting ends...18640185
+sorting ends1...20023356
+Changing Process priority to : - 32
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...sorting begins...
+
+sorting ends1...18641492
+sorting ends...20032676
+CPU priority1: -2
+CPU priority0: -0
+sorting begins...sorting begins1...
+
+sorting ends1...18675069
+sorting ends...19717625
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...sorting begins1...
+
+sorting ends...18791279
+sorting ends1...19761081
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...18632390
+sorting ends1...20006462
+Changing Process priority to : - 32768
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins...sorting begins1...
+
+sorting ends1...18579735
+sorting ends...19559305
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting begins...
+sorting ends1...19016525
+sorting ends...19178305
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...19231352
+sorting ends1...19334616
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...sorting begins1...
+
+sorting ends...18618892
+sorting ends1...19610125
+Changing Process priority to : - 128
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins...sorting begins1...
+
+sorting ends1...19222842
+sorting ends...19422352
+CPU priority1: -2
+CPU priority0: -0
+sorting begins...sorting begins1...
+
+sorting ends1...19516750
+sorting ends...19718368
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...21318442
+sorting ends1...21436413
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...19113797
+sorting ends1...19232062
+Changing Process priority to : - 256
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...sorting begins...
+
+sorting ends1...18854864
+sorting ends...19026531
+CPU priority1: -2
+CPU priority0: -0
+sorting begins...sorting begins1...
+
+sorting ends1...19058403
+sorting ends...19248075
+CPU priority1: -0
+CPU priority0: -2
+sorting begins1...sorting begins...
+
+sorting ends...18954276
+sorting ends1...19076142
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins1...sorting begins...
+
+sorting ends...19196051
+sorting ends1...19311097
+
+
+
+
+TA C1 + TA C1
+Changing Process priority to : - 64
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...13919560
+sorting ends...28045581
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting ends1...14087105
+sorting begins...
+sorting ends...28326610
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...14176089
+sorting ends1...35583958
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...14045195
+sorting ends1...28515121
+Changing Process priority to : - 16384
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...15386971
+sorting ends...32616531
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting ends1...14252077
+sorting begins...
+sorting ends...29384467
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting ends...14235995
+sorting begins1...
+sorting ends1...28869782
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...14041047
+sorting ends1...32496550
+Changing Process priority to : - 32
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...15313710
+sorting ends...34172204
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting begins...
+sorting ends1...14689287
+sorting ends...29916836
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...14594733
+sorting ends1...33568816
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...18239349
+sorting ends1...31201019
+Changing Process priority to : - 32768
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...13985654
+sorting ends...28385482
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting begins...
+sorting ends1...14030230
+sorting ends...28006435
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...14039858
+sorting ends1...28044065
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...14087006
+sorting ends1...28367774
+Changing Process priority to : - 128
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...14102932
+sorting ends...27911824
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting begins...
+sorting ends1...14138587
+sorting ends...27956448
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...14233714
+sorting ends1...28056886
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...14259001
+sorting ends1...28096272
+Changing Process priority to : - 256
+CPU priority1: -15
+CPU priority0: -4294967294
+sorting begins1...
+sorting begins...
+sorting ends1...14070567
+sorting ends...28043623
+CPU priority1: -2
+CPU priority0: -0
+sorting begins1...
+sorting begins...
+sorting ends1...14001527
+sorting ends...27970861
+CPU priority1: -0
+CPU priority0: -2
+sorting begins...
+sorting begins1...
+sorting ends...13946607
+sorting ends1...28568911
+CPU priority1: -4294967294
+CPU priority0: -15
+sorting begins...
+sorting begins1...
+sorting ends...14196985
+sorting ends1...28132903
+
+
+
+
+TB C1 + TB C2
+Changing Process priority to : - 64
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...file operation begins...
+
+file operations ends1...13675117
+file operations ends...14603742
+File priority1: -2
+File priority0: -0
+file operation begins...file operation begins1...
+
+file operations ends1...14384543
+file operations ends...14624466
+File priority1: -0
+File priority0: -2
+file operation begins...file operation begins1...
+
+file operations ends...14534878
+file operations ends1...14880906
+File priority1: -4294967294
+File priority0: -15
+file operation begins1...file operation begins...
+
+file operations ends...13839745
+file operations ends1...15117713
+Changing Process priority to : - 16384
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...file operation begins...
+
+file operations ends1...13760154
+file operations ends...14938883
+File priority1: -2
+File priority0: -0
+file operation begins1...file operation begins...
+
+file operations ends1...14232703
+file operations ends...14690686
+File priority1: -0
+File priority0: -2
+file operation begins1...file operation begins...
+
+file operations ends...14518420
+file operations ends1...15107164
+File priority1: -4294967294
+File priority0: -15
+file operation begins1...file operation begins...
+
+file operations ends...13677465
+file operations ends1...14540151
+Changing Process priority to : - 32
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...13748402
+file operations ends...14911693
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...13637009
+file operations ends...14289394
+File priority1: -0
+File priority0: -2
+file operation begins...file operation begins1...
+
+file operations ends...13958206
+file operations ends1...14744730
+File priority1: -4294967294
+File priority0: -15
+file operation begins1...
+file operation begins...
+file operations ends...13699625
+file operations ends1...14673986
+Changing Process priority to : - 32768
+File priority1: -15
+File priority0: -4294967294
+file operation begins...file operation begins1...
+
+file operations ends1...13928325
+file operations ends...14894960
+File priority1: -2
+File priority0: -0
+file operation begins...
+file operation begins1...
+file operations ends1...14085803
+file operations ends...14151337
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...14004772
+file operations ends1...14014401
+File priority1: -4294967294
+File priority0: -15
+file operation begins1...file operation begins...
+
+file operations ends...13900784
+file operations ends1...14676578
+Changing Process priority to : - 128
+File priority1: -15
+File priority0: -4294967294
+file operation begins...file operation begins1...
+
+file operations ends1...13860693
+file operations ends...13885854
+File priority1: -2
+File priority0: -0
+file operation begins1...file operation begins...
+
+file operations ends1...14183269
+file operations ends...14230747
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...13988193
+file operations ends1...13988233
+File priority1: -4294967294
+File priority0: -15
+file operation begins1...
+file operation begins...
+file operations ends...file operations ends1...1422630514226320
+
+Changing Process priority to : - 256
+File priority1: -15
+File priority0: -4294967294
+file operation begins...
+file operation begins1...
+file operations ends1...13897231
+file operations ends...13924175
+File priority1: -2
+File priority0: -0
+file operation begins...file operation begins1...
+
+file operations ends1...14196718
+file operations ends...14243199
+File priority1: -0
+File priority0: -2
+file operation begins1...file operation begins...
+
+file operations ends1...13973077
+file operations ends...13973070
+File priority1: -4294967294
+File priority0: -15
+file operation begins...file operation begins1...
+
+file operations ends1...file operations ends...1396165213961642
+
+
+
+
+
+TB C1 + TB C1
+Changing Process priority to : - 64
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...8742876
+file operations ends...16837447
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...8571329
+file operations ends...17003869
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...8713592
+file operations ends1...17379259
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8472363
+file operations ends1...17271279
+Changing Process priority to : - 16384
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...8440981
+file operations ends...16511829
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...8603134
+file operations ends...17348541
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...8654811
+file operations ends1...17227700
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8731660
+file operations ends1...17162011
+Changing Process priority to : - 32
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...8836007
+file operations ends...17073705
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...8717601
+file operations ends...16898134
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...8504893
+file operations ends1...16758518
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8630066
+file operations ends1...16849208
+Changing Process priority to : - 32768
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...8789962
+file operations ends...17161057
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...8564439
+file operations ends...16928489
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...8497603
+file operations ends1...16725374
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8739824
+file operations ends1...18231717
+Changing Process priority to : - 128
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...9850075
+file operations ends...18151007
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...8622777
+file operations ends...16550876
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...8738825
+file operations ends1...16796934
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8510754
+file operations ends1...17333973
+Changing Process priority to : - 256
+File priority1: -15
+File priority0: -4294967294
+file operation begins1...
+file operation begins...
+file operations ends1...9033792
+file operations ends...19881950
+File priority1: -2
+File priority0: -0
+file operation begins1...
+file operation begins...
+file operations ends1...11603236
+file operations ends...22861297
+File priority1: -0
+File priority0: -2
+file operation begins...
+file operation begins1...
+file operations ends...9519391
+file operations ends1...17709126
+File priority1: -4294967294
+File priority0: -15
+file operation begins...
+file operation begins1...
+file operations ends...8860269
+file operations ends1...16894755
+
+
+
+
